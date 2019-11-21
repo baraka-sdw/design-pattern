@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PrototypePatternDemo",
+            "request": "launch",
+            "mainClass": "PrototypePatternDemo",
+            "projectName": "设计模式_e580185"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
