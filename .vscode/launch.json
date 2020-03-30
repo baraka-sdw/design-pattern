@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BridgePatternDemo",
+            "request": "launch",
+            "mainClass": "BridgePatternDemo",
+            "projectName": "设计模式_e580185"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PrototypePatternDemo",
             "request": "launch",
             "mainClass": "PrototypePatternDemo",
